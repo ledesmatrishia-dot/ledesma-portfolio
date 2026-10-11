@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository, a curated showcase of my web develo
 
 Live Demo
 You can view the live site hosted on GitHub Pages:
-[ledesmatrishia-dot](https://ledesmatrishia-dot.github.io)
+[ledesmatrishia-dot](https://ledesmatrishia-dot.github.io/ledesma-portfolio/)
 
 Technologies Used
 - **HTML5** - Page structure and semantic layout
