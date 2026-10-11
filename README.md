@@ -14,5 +14,5 @@ Technologies Used
 
 Author
 **Trishia G. Ledesma**
-- Github: [ledesmatrishia-dot](https://ledesmatrishia-dot.github.io/ledesma-portfolio/)
+- Github: [[ledesmatrishia-dot](https://github.com/ledesmatrishia-dot)]
 - Email: ledesmatrishia@gmail.com
